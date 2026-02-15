@@ -35,7 +35,7 @@ This graph utilizes a Fast Fourier Transform to break the raw signal down into i
 
 
 
-## ⚙️ How to Run
+## How to Run
 1. Connect your Arduino to your computer via USB.
 2. Open MATLAB and ensure the Arduino Support Package is installed.
 3. Open the script.
