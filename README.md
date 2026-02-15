@@ -31,7 +31,7 @@ This graph shows the raw voltage fluctuations recorded by the LDR over the measu
 
 
 ### 2. The Frequency Spectrum (Frequency Domain)
-This graph utilizes a Fast Fourier Transform to break the raw signal down into its constituent frequencies. The mathematical mirroring (Hermitian Symmetry) has been removed to display a clean, professional single-sided spectrum up to the Nyquist frequency ($f_s / 2$).
+This graph utilizes a Fast Fourier Transform to break the raw signal down into its constituent frequencies. 
 
 
 
